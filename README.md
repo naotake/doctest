@@ -1,0 +1,4 @@
+doctest
+=======
+
+test document writing
